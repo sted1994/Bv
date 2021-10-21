@@ -1,0 +1,28 @@
+/*************************** Tag Selector **************************/
+body {
+  background-color: #F6F6F6;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  width: 5%;
+  border-top: 5px dotted #B2B1B9;
+}
+
+h1 {
+  color: #3F72AF;
+}
+
+h3 {
+  color: #3F72AF;
+}
+
+/*************************** Class Selector **************************/
+
+.hovering:hover{
+  background-color: #DBE2EF;
+}
+
+
+/*************************** ID Selector **************************/
